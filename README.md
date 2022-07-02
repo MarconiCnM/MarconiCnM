@@ -44,6 +44,3 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/MarconiCnM/MarconiCnM/blob/output/snake.svg" alt="Snake animation" />
-
-###
